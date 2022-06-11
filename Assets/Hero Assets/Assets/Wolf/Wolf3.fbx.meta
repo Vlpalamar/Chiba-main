@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: cc96d2b7cd48bf6459f6810de234ebc9
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -5923495850079588805
+    second: Idle
+  - first:
+      74: 2190408507614844853
+    second: LordGarithos|#UNANIMATED LordGarithos.001
+  - first:
+      74: -6893021705339932666
+    second: LordGarithos|Attack 1 LordGarithos
+  - first:
+      74: 4987932064071761689
+    second: LordGarithos|Attack 1 LordGarithos.001
+  - first:
+      74: 8198884494160380538
+    second: LordGarithos|Death 1 LordGarithos
+  - first:
+      74: -1812190042993850869
+    second: LordGarithos|Death 1 LordGarithos.001
+  - first:
+      74: -1293798509782414929
+    second: LordGarithos|Dissipate LordGarithos
+  - first:
+      74: 4274301993923381160
+    second: LordGarithos|Dissipate LordGarithos.001
+  - first:
+      74: -7465017611552068891
+    second: LordGarithos|Spell 1 LordGarithos
+  - first:
+      74: -3484785367464608925
+    second: LordGarithos|Spell 1 LordGarithos.001
+  - first:
+      74: -680577738015414482
+    second: LordGarithos|Stand 1 LordGarithos
+  - first:
+      74: -3149198598462790746
+    second: LordGarithos|Stand 1 LordGarithos.001
+  - first:
+      74: 5541405763478046101
+    second: LordGarithos|Stand Channel 1 LordGarithos
+  - first:
+      74: -8046110236482180289
+    second: LordGarithos|Stand Channel 1 LordGarithos.001
+  - first:
+      74: -679717272922111511
+    second: LordGarithos|Stand Ready 1 LordGarithos
+  - first:
+      74: -8144574603925140612
+    second: LordGarithos|Stand Ready 1 LordGarithos.001
+  - first:
+      74: 7446955052621983237
+    second: LordGarithos|Stand Victory 1 LordGarithos
+  - first:
+      74: -8824839371215097245
+    second: LordGarithos|Stand Victory 1 LordGarithos.001
+  - first:
+      74: -8723426755151388709
+    second: LordGarithos|Walk 1 LordGarithos
+  - first:
+      74: 1262645021728627456
+    second: LordGarithos|Walk 1 LordGarithos.001
+  - first:
+      74: 2157356673868291105
+    second: LordGarithos.001|#UNANIMATED LordGarithos
+  - first:
+      74: -1713596356262432909
+    second: LordGarithos.001|#UNANIMATED LordGarithos.001
+  - first:
+      74: -241416440282575273
+    second: LordGarithos.001|Attack 1 LordGarithos
+  - first:
+      74: -7015312322863880280
+    second: LordGarithos.001|Attack 1 LordGarithos.001
+  - first:
+      74: 8061366760189975703
+    second: LordGarithos.001|Death 1 LordGarithos
+  - first:
+      74: 8320832252166233836
+    second: LordGarithos.001|Death 1 LordGarithos.001
+  - first:
+      74: 6259194076210444965
+    second: LordGarithos.001|Dissipate LordGarithos
+  - first:
+      74: -7457619878656910408
+    second: LordGarithos.001|Dissipate LordGarithos.001
+  - first:
+      74: -1383381390158753086
+    second: LordGarithos.001|Spell 1 LordGarithos
+  - first:
+      74: 1135148789618389242
+    second: LordGarithos.001|Spell 1 LordGarithos.001
+  - first:
+      74: 6044393782503658966
+    second: LordGarithos.001|Stand 1 LordGarithos
+  - first:
+      74: 2792863141383026166
+    second: LordGarithos.001|Stand 1 LordGarithos.001
+  - first:
+      74: 261781998435781515
+    second: LordGarithos.001|Stand Channel 1 LordGarithos
+  - first:
+      74: -9194279882155151261
+    second: LordGarithos.001|Stand Channel 1 LordGarithos.001
+  - first:
+      74: 1315685409229338603
+    second: LordGarithos.001|Stand Ready 1 LordGarithos
+  - first:
+      74: -7397286294903638821
+    second: LordGarithos.001|Stand Ready 1 LordGarithos.001
+  - first:
+      74: 7898475424434306033
+    second: LordGarithos.001|Stand Victory 1 LordGarithos
+  - first:
+      74: -9007411914581325940
+    second: LordGarithos.001|Stand Victory 1 LordGarithos.001
+  - first:
+      74: 6433743835054250771
+    second: LordGarithos.001|Walk 1 LordGarithos
+  - first:
+      74: -3407779835426708457
+    second: LordGarithos.001|Walk 1 LordGarithos.001
+  - first:
+      74: -5647890550271510216
+    second: LordGarithos Nodes|#UNANIMATED
+  - first:
+      74: 6564266285171874419
+    second: LordGarithos Nodes|#UNANIMATED LordGarithos
+  - first:
+      74: 5366911076855442163
+    second: LordGarithos Nodes|#UNANIMATED LordGarithos.001
+  - first:
+      74: -7510585725143551142
+    second: LordGarithos Nodes|all sequences
+  - first:
+      74: 1335200438044008071
+    second: LordGarithos Nodes|Attack 1
+  - first:
+      74: -4425590483955223251
+    second: LordGarithos Nodes|Attack 1 LordGarithos
+  - first:
+      74: 1150817296299202557
+    second: LordGarithos Nodes|Attack 1 LordGarithos.001
+  - first:
+      74: 5304546993472710114
+    second: LordGarithos Nodes|Death 1
+  - first:
+      74: -3796512281163693792
+    second: LordGarithos Nodes|Death 1 LordGarithos
+  - first:
+      74: 8543561344838076177
+    second: LordGarithos Nodes|Death 1 LordGarithos.001
+  - first:
+      74: -2948278609035492803
+    second: LordGarithos Nodes|Dissipate
+  - first:
+      74: 5133102232133735322
+    second: LordGarithos Nodes|Dissipate LordGarithos
+  - first:
+      74: 732761040933174892
+    second: LordGarithos Nodes|Dissipate LordGarithos.001
+  - first:
+      74: 3685507488765635850
+    second: LordGarithos Nodes|Spell 1
+  - first:
+      74: -2055520814778342935
+    second: LordGarithos Nodes|Spell 1 LordGarithos
+  - first:
+      74: -4374715161112805379
+    second: LordGarithos Nodes|Spell 1 LordGarithos.001
+  - first:
+      74: 1875771927489171143
+    second: LordGarithos Nodes|Stand 1
+  - first:
+      74: -7169870402186081067
+    second: LordGarithos Nodes|Stand 1 LordGarithos
+  - first:
+      74: 6179188584975623545
+    second: LordGarithos Nodes|Stand 1 LordGarithos.001
+  - first:
+      74: -6371959451724835777
+    second: LordGarithos Nodes|Stand Channel 1
+  - first:
+      74: -4734352127280338322
+    second: LordGarithos Nodes|Stand Channel 1 LordGarithos
+  - first:
+      74: 8829036574292113328
+    second: LordGarithos Nodes|Stand Channel 1 LordGarithos.001
+  - first:
+      74: 3643828072976477055
+    second: LordGarithos Nodes|Stand Ready 1
+  - first:
+      74: 6898828647877411792
+    second: LordGarithos Nodes|Stand Ready 1 LordGarithos
+  - first:
+      74: -6026358417733948214
+    second: LordGarithos Nodes|Stand Ready 1 LordGarithos.001
+  - first:
+      74: 57935943552650113
+    second: LordGarithos Nodes|Stand Victory 1
+  - first:
+      74: -1206729857084846266
+    second: LordGarithos Nodes|Stand Victory 1 LordGarithos
+  - first:
+      74: 8798670895943248049
+    second: LordGarithos Nodes|Stand Victory 1 LordGarithos.001
+  - first:
+      74: -6114046386735689774
+    second: LordGarithos Nodes|Walk 1
+  - first:
+      74: -8929305553752282935
+    second: LordGarithos Nodes|Walk 1 LordGarithos
+  - first:
+      74: 5384949672829574182
+    second: LordGarithos Nodes|Walk 1 LordGarithos.001
+  - first:
+      74: 6720303635017113406
+    second: Attack
+  - first:
+      74: -4630339522487117836
+    second: Die
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: 457796991906702257
+    second: Spawn
+  - first:
+      74: 7666019288946695810
+    second: Stun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.010
+    second: {fileID: 2100000, guid: da5ad8d38eb7f5549b6f15c8fc6f9bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.012
+    second: {fileID: 2100000, guid: 9934e78ccc5b67a4e8eef3f7f812ff53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.017
+    second: {fileID: 2100000, guid: da5ad8d38eb7f5549b6f15c8fc6f9bf1, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LordGarithos Nodes|all sequences
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 7
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 86
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 118
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 414
+      lastFrame: 432
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spawn
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 210
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun
+      takeName: LordGarithos Nodes|all sequences
+      internalID: 0
+      firstFrame: 7
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

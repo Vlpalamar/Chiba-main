@@ -2127,10 +2127,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1956434131952785183}
   - component: {fileID: 8864789259348678113}
-  - component: {fileID: 3645230039845538314}
-  - component: {fileID: 4226648055696231082}
   - component: {fileID: 5720287569251179264}
-  - component: {fileID: 6345217009243879217}
   - component: {fileID: 4170099273709200273}
   - component: {fileID: 5964003534941427211}
   - component: {fileID: 800984267736388011}
@@ -2138,6 +2135,9 @@ GameObject:
   - component: {fileID: 2149255967664893234}
   - component: {fileID: 2829803784828706206}
   - component: {fileID: 2455022324933386433}
+  - component: {fileID: 4226648055696231082}
+  - component: {fileID: 1462456730250380300}
+  - component: {fileID: 3645230039845538314}
   m_Layer: 0
   m_Name: 1_Berser (God of North)
   m_TagString: Enemy
@@ -2154,7 +2154,7 @@ Transform:
   m_GameObject: {fileID: 1763943772918151172}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -136.57779, y: 91.01127, z: 135.53133}
-  m_LocalScale: {x: 0.021, y: 0.02, z: 0.02}
+  m_LocalScale: {x: 0.04, y: 0.04, z: 0.04}
   m_Children:
   - {fileID: 3506217279040659509}
   - {fileID: 1640531915048726879}
@@ -2190,37 +2190,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!136 &3645230039845538314
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1763943772918151172}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  m_Radius: 29.638481
-  m_Height: 123.70441
-  m_Direction: 1
-  m_Center: {x: 0, y: 66.79779, z: 0.4811287}
---- !u!114 &4226648055696231082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1763943772918151172}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneId: 0
-  serverOnly: 0
-  visible: 0
-  m_AssetId: f636428680bfef04babe137bf64bedbe
-  hasSpawned: 0
 --- !u!114 &5720287569251179264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2237,7 +2206,7 @@ MonoBehaviour:
   syncInterval: 0.1
   autoAtack: {fileID: -1364850222248687292, guid: 24d7e5f75a95e3047a9805581ca6847b,
     type: 3}
-  attackRange: 3
+  attackRange: 6
   attackSpeed: 2
   attackDeley: 2
   DeadTime: 5
@@ -2246,35 +2215,13 @@ MonoBehaviour:
   amountOfAttackAnimation: 2
   enemyTarget: {fileID: 0}
   isDie: 0
-  speed: 5
+  speed: 10
   curentHealth: 100
   maxHealth: 100
   stun: 0
   spellPossition: {fileID: 5427235665577102450}
   heroName: 
   playerName: 
---- !u!195 &6345217009243879217
-NavMeshAgent:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1763943772918151172}
-  m_Enabled: 1
-  m_AgentTypeID: 0
-  m_Radius: 33.59
-  m_Speed: 3.5
-  m_Acceleration: 8
-  avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 106.33
-  m_BaseOffset: 0
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 4
 --- !u!114 &4170099273709200273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2316,12 +2263,12 @@ MonoBehaviour:
   Status: 0
   damage: 10
   radius: 4
-  durration: 10
-  interval: 5
+  durration: 8
+  interval: 2
   countPerWave: 10
   attribute: {fileID: 11400000, guid: 8a8ed829f59b8184faaccb6471490e32, type: 2}
   user: {fileID: 0}
-  epicentrePrefab: {fileID: 2735929091917902538, guid: 728ecd58130e6b345896a1ada4134603,
+  epicentrePrefab: {fileID: 7883900430307808045, guid: de6ffe585c5673c4ba8711e7268191c4,
     type: 3}
 --- !u!114 &800984267736388011
 MonoBehaviour:
@@ -2378,6 +2325,10 @@ MonoBehaviour:
   blink: {fileID: 800984267736388011}
   meteorShower: {fileID: 5964003534941427211}
   fireStun: {fileID: 4170099273709200273}
+  spells:
+  - {fileID: 800984267736388011}
+  - {fileID: 5964003534941427211}
+  - {fileID: 4170099273709200273}
 --- !u!114 &2829803784828706206
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2428,6 +2379,59 @@ MonoBehaviour:
   showGizmos: 0
   showOverlay: 0
   overlayColor: {r: 0, g: 0, b: 0, a: 0.5}
+--- !u!114 &4226648055696231082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763943772918151172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneId: 0
+  serverOnly: 0
+  visible: 0
+  m_AssetId: f636428680bfef04babe137bf64bedbe
+  hasSpawned: 0
+--- !u!195 &1462456730250380300
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763943772918151172}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 25
+  m_Speed: 6
+  m_Acceleration: 16
+  avoidancePriority: 50
+  m_AngularSpeed: 200
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 100
+  m_BaseOffset: -1.15
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!136 &3645230039845538314
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763943772918151172}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 29.638481
+  m_Height: 123.70441
+  m_Direction: 1
+  m_Center: {x: 0, y: 66.79779, z: 0.4811287}
 --- !u!1 &1893265639218386492
 GameObject:
   m_ObjectHideFlags: 0

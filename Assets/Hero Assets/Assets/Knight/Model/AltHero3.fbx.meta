@@ -295,8 +295,8 @@ ModelImporter:
       name: Spawn
       takeName: BanditEnforcer Nodes|all sequences
       internalID: 0
-      firstFrame: 3286
-      lastFrame: 3310
+      firstFrame: 70
+      lastFrame: 140
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -324,8 +324,8 @@ ModelImporter:
       name: Stun
       takeName: BanditEnforcer Nodes|all sequences
       internalID: 0
-      firstFrame: 320
-      lastFrame: 340
+      firstFrame: 0
+      lastFrame: 1
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

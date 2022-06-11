@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: 5d1d7143eade84c4692cef7c21b42c1d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4171537149122543821
+    second: Huntress|#UNANIMATED Huntress
+  - first:
+      74: -881490217111605712
+    second: Huntress|#UNANIMATED Huntress.001
+  - first:
+      74: -1715404370078146033
+    second: Huntress|#UNANIMATED Huntress.002
+  - first:
+      74: -1446390369235992721
+    second: Huntress|#UNANIMATED Huntress.003
+  - first:
+      74: 9007425745075664724
+    second: Huntress|Attack 1 Huntress
+  - first:
+      74: -2118063490133777062
+    second: Huntress|Attack 1 Huntress.001
+  - first:
+      74: -3388355742933371282
+    second: Huntress|Attack 1 Huntress.002
+  - first:
+      74: 4467859877353817094
+    second: Huntress|Attack 1 Huntress.003
+  - first:
+      74: 659696880920672198
+    second: Huntress|Attack 2 Huntress
+  - first:
+      74: 4314837405306750608
+    second: Huntress|Attack 2 Huntress.001
+  - first:
+      74: 2148320754558696307
+    second: Huntress|Attack 2 Huntress.002
+  - first:
+      74: 4617161096092576848
+    second: Huntress|Attack 2 Huntress.003
+  - first:
+      74: 8304458087892593934
+    second: Huntress|Cinematic Listening One Huntress
+  - first:
+      74: 1145469797999533504
+    second: Huntress|Cinematic Listening One Huntress.001
+  - first:
+      74: 8160989101689151588
+    second: Huntress|Cinematic Listening One Huntress.002
+  - first:
+      74: -4371610364624590936
+    second: Huntress|Cinematic Listening One Huntress.003
+  - first:
+      74: 3400728179553760180
+    second: Huntress|Cinematic Standard One Huntress
+  - first:
+      74: -7447542577327770526
+    second: Huntress|Cinematic Standard One Huntress.001
+  - first:
+      74: -7759182011534957763
+    second: Huntress|Cinematic Standard One Huntress.002
+  - first:
+      74: -300079875959693378
+    second: Huntress|Cinematic Standard One Huntress.003
+  - first:
+      74: -1164842142873149198
+    second: Huntress|Cinematic Walk One Huntress
+  - first:
+      74: -5453159679472638432
+    second: Huntress|Cinematic Walk One Huntress.001
+  - first:
+      74: -2871811466686174362
+    second: Huntress|Cinematic Walk One Huntress.002
+  - first:
+      74: -4826838300203167177
+    second: Huntress|Cinematic Walk One Huntress.003
+  - first:
+      74: 4661223267244451217
+    second: Huntress|Death 1 Huntress
+  - first:
+      74: -4676744943942482072
+    second: Huntress|Death 1 Huntress.001
+  - first:
+      74: 3186477097348818562
+    second: Huntress|Death 1 Huntress.002
+  - first:
+      74: -6033791362972694971
+    second: Huntress|Death 1 Huntress.003
+  - first:
+      74: -4228064148894689605
+    second: Huntress|Decay Bone Huntress
+  - first:
+      74: 3941266470295852324
+    second: Huntress|Decay Bone Huntress.001
+  - first:
+      74: -5812372773162677656
+    second: Huntress|Decay Bone Huntress.002
+  - first:
+      74: 8303404753385384931
+    second: Huntress|Decay Bone Huntress.003
+  - first:
+      74: 514199106481289291
+    second: Huntress|Decay Flesh Huntress
+  - first:
+      74: 7217067624865515944
+    second: Huntress|Decay Flesh Huntress.001
+  - first:
+      74: -7368730090703074655
+    second: Huntress|Decay Flesh Huntress.002
+  - first:
+      74: -107579845318218749
+    second: Huntress|Decay Flesh Huntress.003
+  - first:
+      74: 4269408161123924087
+    second: Huntress|Spell 1 Huntress
+  - first:
+      74: 1406603923182357818
+    second: Huntress|Spell 1 Huntress.001
+  - first:
+      74: -8782658059283100126
+    second: Huntress|Spell 1 Huntress.002
+  - first:
+      74: -86879743769486522
+    second: Huntress|Spell 1 Huntress.003
+  - first:
+      74: -3147925835492706838
+    second: Huntress|Stand 1 Huntress
+  - first:
+      74: 6602257803592488430
+    second: Huntress|Stand 1 Huntress.001
+  - first:
+      74: -3133156018443320824
+    second: Huntress|Stand 1 Huntress.002
+  - first:
+      74: 7189726556243955160
+    second: Huntress|Stand 1 Huntress.003
+  - first:
+      74: -4774752192598788829
+    second: Huntress|Stand 2 Huntress
+  - first:
+      74: 5150712502230784893
+    second: Huntress|Stand 2 Huntress.001
+  - first:
+      74: 7201463596191149672
+    second: Huntress|Stand 2 Huntress.002
+  - first:
+      74: 8897390047027624500
+    second: Huntress|Stand 2 Huntress.003
+  - first:
+      74: 6283041211660146118
+    second: Huntress|Walk 1 Huntress
+  - first:
+      74: 7013205143720645406
+    second: Huntress|Walk 1 Huntress.001
+  - first:
+      74: -2597626390158430814
+    second: Huntress|Walk 1 Huntress.002
+  - first:
+      74: 2265863247252472753
+    second: Huntress|Walk 1 Huntress.003
+  - first:
+      74: 7335793633564608654
+    second: Huntress.001|#UNANIMATED Huntress
+  - first:
+      74: 2912395828048453499
+    second: Huntress.001|#UNANIMATED Huntress.001
+  - first:
+      74: -9004861512656618602
+    second: Huntress.001|#UNANIMATED Huntress.002
+  - first:
+      74: 1902197194030314604
+    second: Huntress.001|#UNANIMATED Huntress.003
+  - first:
+      74: -3884662998033423777
+    second: Huntress.001|Attack 1 Huntress
+  - first:
+      74: -1287580418611291722
+    second: Huntress.001|Attack 1 Huntress.001
+  - first:
+      74: -6181266995389532558
+    second: Huntress.001|Attack 1 Huntress.002
+  - first:
+      74: 4184570111408673638
+    second: Huntress.001|Attack 1 Huntress.003
+  - first:
+      74: -4198180392475461812
+    second: Huntress.001|Attack 2 Huntress
+  - first:
+      74: 8022499663737646744
+    second: Huntress.001|Attack 2 Huntress.001
+  - first:
+      74: -2613860287643986903
+    second: Huntress.001|Attack 2 Huntress.002
+  - first:
+      74: 1110654513324514896
+    second: Huntress.001|Attack 2 Huntress.003
+  - first:
+      74: -6004058304152750452
+    second: Huntress.001|Cinematic Listening One Huntress
+  - first:
+      74: -1371361379542757748
+    second: Huntress.001|Cinematic Listening One Huntress.001
+  - first:
+      74: 7632580553865999129
+    second: Huntress.001|Cinematic Listening One Huntress.002
+  - first:
+      74: -8214440200801255084
+    second: Huntress.001|Cinematic Listening One Huntress.003
+  - first:
+      74: 949683479246246445
+    second: Huntress.001|Cinematic Standard One Huntress
+  - first:
+      74: -2479503613055878060
+    second: Huntress.001|Cinematic Standard One Huntress.001
+  - first:
+      74: 2949667069920747466
+    second: Huntress.001|Cinematic Standard One Huntress.002
+  - first:
+      74: -7459009190780462536
+    second: Huntress.001|Cinematic Standard One Huntress.003
+  - first:
+      74: -6485534761887132440
+    second: Huntress.001|Cinematic Walk One Huntress
+  - first:
+      74: -3329940347367863489
+    second: Huntress.001|Cinematic Walk One Huntress.001
+  - first:
+      74: 2516553686209835130
+    second: Huntress.001|Cinematic Walk One Huntress.002
+  - first:
+      74: 6734660887071742594
+    second: Huntress.001|Cinematic Walk One Huntress.003
+  - first:
+      74: 2712026943891583747
+    second: Huntress.001|Death 1 Huntress
+  - first:
+      74: -7760977442556975302
+    second: Huntress.001|Death 1 Huntress.001
+  - first:
+      74: 7687655373265716448
+    second: Huntress.001|Death 1 Huntress.002
+  - first:
+      74: 3714827116424105748
+    second: Huntress.001|Death 1 Huntress.003
+  - first:
+      74: -2379022259496509946
+    second: Huntress.001|Decay Bone Huntress
+  - first:
+      74: -7175396554929232458
+    second: Huntress.001|Decay Bone Huntress.001
+  - first:
+      74: 2348550678966594221
+    second: Huntress.001|Decay Bone Huntress.002
+  - first:
+      74: 8305200103625365010
+    second: Huntress.001|Decay Bone Huntress.003
+  - first:
+      74: -8405747322060528873
+    second: Huntress.001|Decay Flesh Huntress
+  - first:
+      74: -3906390034008858206
+    second: Huntress.001|Decay Flesh Huntress.001
+  - first:
+      74: 6944703488700340277
+    second: Huntress.001|Decay Flesh Huntress.002
+  - first:
+      74: 6080267088024841810
+    second: Huntress.001|Decay Flesh Huntress.003
+  - first:
+      74: 1894490631487750092
+    second: Huntress.001|Spell 1 Huntress
+  - first:
+      74: 3862281456916150325
+    second: Huntress.001|Spell 1 Huntress.001
+  - first:
+      74: -6223221178203410842
+    second: Huntress.001|Spell 1 Huntress.002
+  - first:
+      74: -7148756679899250954
+    second: Huntress.001|Spell 1 Huntress.003
+  - first:
+      74: -6412504380787189936
+    second: Huntress.001|Stand 1 Huntress
+  - first:
+      74: 5784931417257354653
+    second: Huntress.001|Stand 1 Huntress.001
+  - first:
+      74: 1308963367223900338
+    second: Huntress.001|Stand 1 Huntress.002
+  - first:
+      74: -8184246270014481792
+    second: Huntress.001|Stand 1 Huntress.003
+  - first:
+      74: -2529925702515822712
+    second: Huntress.001|Stand 2 Huntress
+  - first:
+      74: 4468506852095190287
+    second: Huntress.001|Stand 2 Huntress.001
+  - first:
+      74: -3635318542360685663
+    second: Huntress.001|Stand 2 Huntress.002
+  - first:
+      74: 1231613815736644152
+    second: Huntress.001|Stand 2 Huntress.003
+  - first:
+      74: -6338756124604751317
+    second: Huntress.001|Walk 1 Huntress
+  - first:
+      74: 601665848369667621
+    second: Huntress.001|Walk 1 Huntress.001
+  - first:
+      74: 4182394805987994743
+    second: Huntress.001|Walk 1 Huntress.002
+  - first:
+      74: 3251028666097800420
+    second: Huntress.001|Walk 1 Huntress.003
+  - first:
+      74: 483410848298282822
+    second: Huntress.002|#UNANIMATED Huntress
+  - first:
+      74: -932488865176724674
+    second: Huntress.002|#UNANIMATED Huntress.001
+  - first:
+      74: -8457899968070291415
+    second: Huntress.002|#UNANIMATED Huntress.002
+  - first:
+      74: -4001107637255201584
+    second: Huntress.002|#UNANIMATED Huntress.003
+  - first:
+      74: 283602678052513145
+    second: Huntress.002|Attack 1 Huntress
+  - first:
+      74: -4686180200656555954
+    second: Huntress.002|Attack 1 Huntress.001
+  - first:
+      74: -1351916407743147944
+    second: Huntress.002|Attack 1 Huntress.002
+  - first:
+      74: 3004380790024352715
+    second: Huntress.002|Attack 1 Huntress.003
+  - first:
+      74: -2572786393383239853
+    second: Huntress.002|Attack 2 Huntress
+  - first:
+      74: -2394215839458437785
+    second: Huntress.002|Attack 2 Huntress.001
+  - first:
+      74: 6305838559175841437
+    second: Huntress.002|Attack 2 Huntress.002
+  - first:
+      74: 1336197522164085215
+    second: Huntress.002|Attack 2 Huntress.003
+  - first:
+      74: -7251543044147784361
+    second: Huntress.002|Cinematic Listening One Huntress
+  - first:
+      74: -7888643285429089310
+    second: Huntress.002|Cinematic Listening One Huntress.001
+  - first:
+      74: -8327541556358948641
+    second: Huntress.002|Cinematic Listening One Huntress.002
+  - first:
+      74: 6981542902719939396
+    second: Huntress.002|Cinematic Listening One Huntress.003
+  - first:
+      74: -6554247688671563834
+    second: Huntress.002|Cinematic Standard One Huntress
+  - first:
+      74: -2307665035055756554
+    second: Huntress.002|Cinematic Standard One Huntress.001
+  - first:
+      74: 1325503098284701749
+    second: Huntress.002|Cinematic Standard One Huntress.002
+  - first:
+      74: 6416334044458499388
+    second: Huntress.002|Cinematic Standard One Huntress.003
+  - first:
+      74: -6514432050902397196
+    second: Huntress.002|Cinematic Walk One Huntress
+  - first:
+      74: 1039559281865399560
+    second: Huntress.002|Cinematic Walk One Huntress.001
+  - first:
+      74: 5455656447299115824
+    second: Huntress.002|Cinematic Walk One Huntress.002
+  - first:
+      74: 8045226150520850435
+    second: Huntress.002|Cinematic Walk One Huntress.003
+  - first:
+      74: 6455405045541307845
+    second: Huntress.002|Death 1 Huntress
+  - first:
+      74: 1201246963205171224
+    second: Huntress.002|Death 1 Huntress.001
+  - first:
+      74: 3258119569143097176
+    second: Huntress.002|Death 1 Huntress.002
+  - first:
+      74: 2336472484978788634
+    second: Huntress.002|Death 1 Huntress.003
+  - first:
+      74: 6821217408082434532
+    second: Huntress.002|Decay Bone Huntress
+  - first:
+      74: 5560709426437624996
+    second: Huntress.002|Decay Bone Huntress.001
+  - first:
+      74: -6267119634758252548
+    second: Huntress.002|Decay Bone Huntress.002
+  - first:
+      74: 3250333318832760305
+    second: Huntress.002|Decay Bone Huntress.003
+  - first:
+      74: -3759589731916782288
+    second: Huntress.002|Decay Flesh Huntress
+  - first:
+      74: 338414264424304709
+    second: Huntress.002|Decay Flesh Huntress.001
+  - first:
+      74: -5129640107828780725
+    second: Huntress.002|Decay Flesh Huntress.002
+  - first:
+      74: -7288555425212704365
+    second: Huntress.002|Decay Flesh Huntress.003
+  - first:
+      74: 8462007141210434604
+    second: Huntress.002|Spell 1 Huntress
+  - first:
+      74: -3760876853157095599
+    second: Huntress.002|Spell 1 Huntress.001
+  - first:
+      74: 5237602878021883031
+    second: Huntress.002|Spell 1 Huntress.002
+  - first:
+      74: -1045287321822460823
+    second: Huntress.002|Spell 1 Huntress.003
+  - first:
+      74: 4780849124018304476
+    second: Huntress.002|Stand 1 Huntress
+  - first:
+      74: -8886960960502941031
+    second: Huntress.002|Stand 1 Huntress.001
+  - first:
+      74: 1906740207782062622
+    second: Huntress.002|Stand 1 Huntress.002
+  - first:
+      74: 5768487382384764895
+    second: Huntress.002|Stand 1 Huntress.003
+  - first:
+      74: 2783904758030135866
+    second: Huntress.002|Stand 2 Huntress
+  - first:
+      74: -3793891498662857031
+    second: Huntress.002|Stand 2 Huntress.001
+  - first:
+      74: -4109245519659875798
+    second: Huntress.002|Stand 2 Huntress.002
+  - first:
+      74: 7417671356352559255
+    second: Huntress.002|Stand 2 Huntress.003
+  - first:
+      74: -4238468273175451465
+    second: Huntress.002|Walk 1 Huntress
+  - first:
+      74: 231879857471107754
+    second: Huntress.002|Walk 1 Huntress.001
+  - first:
+      74: -8002880026122932253
+    second: Huntress.002|Walk 1 Huntress.002
+  - first:
+      74: 7281077334318675383
+    second: Huntress.002|Walk 1 Huntress.003
+  - first:
+      74: -8439952787784426039
+    second: Huntress.003|#UNANIMATED Huntress
+  - first:
+      74: -4893252070429015511
+    second: Huntress.003|#UNANIMATED Huntress.001
+  - first:
+      74: 2904740144219751827
+    second: Huntress.003|#UNANIMATED Huntress.002
+  - first:
+      74: -754342772302872543
+    second: Huntress.003|#UNANIMATED Huntress.003
+  - first:
+      74: -73453615707470248
+    second: Huntress.003|Attack 1 Huntress
+  - first:
+      74: 7642722030992014385
+    second: Huntress.003|Attack 1 Huntress.001
+  - first:
+      74: -7869878351041473482
+    second: Huntress.003|Attack 1 Huntress.002
+  - first:
+      74: -8723782864764803621
+    second: Huntress.003|Attack 1 Huntress.003
+  - first:
+      74: -3332275189457106930
+    second: Huntress.003|Attack 2 Huntress
+  - first:
+      74: -8751792401560016765
+    second: Huntress.003|Attack 2 Huntress.001
+  - first:
+      74: 782137334907096900
+    second: Huntress.003|Attack 2 Huntress.002
+  - first:
+      74: -457954307350937863
+    second: Huntress.003|Attack 2 Huntress.003
+  - first:
+      74: -7713736793293430405
+    second: Huntress.003|Cinematic Listening One Huntress
+  - first:
+      74: 5550736856798678415
+    second: Huntress.003|Cinematic Listening One Huntress.001
+  - first:
+      74: -3732945492544557755
+    second: Huntress.003|Cinematic Listening One Huntress.002
+  - first:
+      74: -4288721143422581839
+    second: Huntress.003|Cinematic Listening One Huntress.003
+  - first:
+      74: -5936930302516101310
+    second: Huntress.003|Cinematic Standard One Huntress
+  - first:
+      74: -4004056638018958702
+    second: Huntress.003|Cinematic Standard One Huntress.001
+  - first:
+      74: 6706356637783658871
+    second: Huntress.003|Cinematic Standard One Huntress.002
+  - first:
+      74: 280937569684458697
+    second: Huntress.003|Cinematic Standard One Huntress.003
+  - first:
+      74: 6702301645256555020
+    second: Huntress.003|Cinematic Walk One Huntress
+  - first:
+      74: 931202196094397827
+    second: Huntress.003|Cinematic Walk One Huntress.001
+  - first:
+      74: -2878677896344273277
+    second: Huntress.003|Cinematic Walk One Huntress.002
+  - first:
+      74: -2459445888707736734
+    second: Huntress.003|Cinematic Walk One Huntress.003
+  - first:
+      74: 4925774333512768620
+    second: Huntress.003|Death 1 Huntress
+  - first:
+      74: 366014510087481144
+    second: Huntress.003|Death 1 Huntress.001
+  - first:
+      74: 20853389195733718
+    second: Huntress.003|Death 1 Huntress.002
+  - first:
+      74: -7609752757829128914
+    second: Huntress.003|Death 1 Huntress.003
+  - first:
+      74: 4386644207119072787
+    second: Huntress.003|Decay Bone Huntress
+  - first:
+      74: 699947624919189475
+    second: Huntress.003|Decay Bone Huntress.001
+  - first:
+      74: -4028923803761572684
+    second: Huntress.003|Decay Bone Huntress.002
+  - first:
+      74: 2038644668854774044
+    second: Huntress.003|Decay Bone Huntress.003
+  - first:
+      74: -7565265422522235393
+    second: Huntress.003|Decay Flesh Huntress
+  - first:
+      74: 3097414060913518026
+    second: Huntress.003|Decay Flesh Huntress.001
+  - first:
+      74: 4362272018757236636
+    second: Huntress.003|Decay Flesh Huntress.002
+  - first:
+      74: 6859125784274150932
+    second: Huntress.003|Decay Flesh Huntress.003
+  - first:
+      74: 2403925899822684052
+    second: Huntress.003|Spell 1 Huntress
+  - first:
+      74: -1297552109835644287
+    second: Huntress.003|Spell 1 Huntress.001
+  - first:
+      74: -6781631053064565205
+    second: Huntress.003|Spell 1 Huntress.002
+  - first:
+      74: -8864106430449345071
+    second: Huntress.003|Spell 1 Huntress.003
+  - first:
+      74: 5765235040759126175
+    second: Huntress.003|Stand 1 Huntress
+  - first:
+      74: 5255868878185600485
+    second: Huntress.003|Stand 1 Huntress.001
+  - first:
+      74: -4122047467614005583
+    second: Huntress.003|Stand 1 Huntress.002
+  - first:
+      74: 5433808995963045481
+    second: Huntress.003|Stand 1 Huntress.003
+  - first:
+      74: -6066741900360308007
+    second: Huntress.003|Stand 2 Huntress
+  - first:
+      74: -4795200034793017073
+    second: Huntress.003|Stand 2 Huntress.001
+  - first:
+      74: 8210934698349656464
+    second: Huntress.003|Stand 2 Huntress.002
+  - first:
+      74: -5396920340230421725
+    second: Huntress.003|Stand 2 Huntress.003
+  - first:
+      74: 3832393454810046954
+    second: Huntress.003|Walk 1 Huntress
+  - first:
+      74: -5522099778928342392
+    second: Huntress.003|Walk 1 Huntress.001
+  - first:
+      74: -2307469468162848577
+    second: Huntress.003|Walk 1 Huntress.002
+  - first:
+      74: -2152236748219873155
+    second: Huntress.003|Walk 1 Huntress.003
+  - first:
+      74: -5408165697526359805
+    second: Huntress Nodes|#UNANIMATED
+  - first:
+      74: 6699746377173250860
+    second: Huntress Nodes|#UNANIMATED Huntress
+  - first:
+      74: -6861189241189432190
+    second: Huntress Nodes|#UNANIMATED Huntress.001
+  - first:
+      74: -6457440092647186557
+    second: Huntress Nodes|#UNANIMATED Huntress.002
+  - first:
+      74: 21396053926137053
+    second: Huntress Nodes|#UNANIMATED Huntress.003
+  - first:
+      74: 282794413214142318
+    second: Huntress Nodes|all sequences
+  - first:
+      74: -1454028279565334263
+    second: Huntress Nodes|Attack 1
+  - first:
+      74: -8557128481357320880
+    second: Huntress Nodes|Attack 1 Huntress
+  - first:
+      74: 5536316794498070688
+    second: Huntress Nodes|Attack 1 Huntress.001
+  - first:
+      74: -8192341904793671637
+    second: Huntress Nodes|Attack 1 Huntress.002
+  - first:
+      74: -3186255264011087427
+    second: Huntress Nodes|Attack 1 Huntress.003
+  - first:
+      74: 7433965361402590885
+    second: Huntress Nodes|Attack 2
+  - first:
+      74: -1271199987926980291
+    second: Huntress Nodes|Attack 2 Huntress
+  - first:
+      74: 5103004747995442922
+    second: Huntress Nodes|Attack 2 Huntress.001
+  - first:
+      74: 4794726932951460382
+    second: Huntress Nodes|Attack 2 Huntress.002
+  - first:
+      74: 1420393696652262301
+    second: Huntress Nodes|Attack 2 Huntress.003
+  - first:
+      74: -4990029481350081465
+    second: Huntress Nodes|Cinematic Listening One
+  - first:
+      74: -6906481868126105401
+    second: Huntress Nodes|Cinematic Listening One Huntress
+  - first:
+      74: 6717041471623928047
+    second: Huntress Nodes|Cinematic Listening One Huntress.001
+  - first:
+      74: 2770021257182467218
+    second: Huntress Nodes|Cinematic Listening One Huntress.002
+  - first:
+      74: -2201618907170964452
+    second: Huntress Nodes|Cinematic Listening One Huntress.003
+  - first:
+      74: -7653911298948154500
+    second: Huntress Nodes|Cinematic Standard One
+  - first:
+      74: 1385841605862045418
+    second: Huntress Nodes|Cinematic Standard One Huntress
+  - first:
+      74: 2323902057309569554
+    second: Huntress Nodes|Cinematic Standard One Huntress.001
+  - first:
+      74: 1652470663710478633
+    second: Huntress Nodes|Cinematic Standard One Huntress.002
+  - first:
+      74: 5600005416823446745
+    second: Huntress Nodes|Cinematic Standard One Huntress.003
+  - first:
+      74: 7880571179994103983
+    second: Huntress Nodes|Cinematic Walk One
+  - first:
+      74: -6596992402527589992
+    second: Huntress Nodes|Cinematic Walk One Huntress
+  - first:
+      74: 578828782371735727
+    second: Huntress Nodes|Cinematic Walk One Huntress.001
+  - first:
+      74: 4690399977178164729
+    second: Huntress Nodes|Cinematic Walk One Huntress.002
+  - first:
+      74: 2011711917660168846
+    second: Huntress Nodes|Cinematic Walk One Huntress.003
+  - first:
+      74: -8332128934277862701
+    second: Huntress Nodes|Death 1
+  - first:
+      74: 4863804053847490820
+    second: Huntress Nodes|Death 1 Huntress
+  - first:
+      74: 7330159640768441316
+    second: Huntress Nodes|Death 1 Huntress.001
+  - first:
+      74: 8015826437725780579
+    second: Huntress Nodes|Death 1 Huntress.002
+  - first:
+      74: -1884154078523441541
+    second: Huntress Nodes|Death 1 Huntress.003
+  - first:
+      74: 4966281788383466976
+    second: Huntress Nodes|Decay Bone
+  - first:
+      74: -3762476671670761618
+    second: Huntress Nodes|Decay Bone Huntress
+  - first:
+      74: -564512914822291213
+    second: Huntress Nodes|Decay Bone Huntress.001
+  - first:
+      74: 2150210450225230787
+    second: Huntress Nodes|Decay Bone Huntress.002
+  - first:
+      74: -2952886228275989475
+    second: Huntress Nodes|Decay Bone Huntress.003
+  - first:
+      74: -1498254017917083494
+    second: Huntress Nodes|Decay Flesh
+  - first:
+      74: -4535589032476865519
+    second: Huntress Nodes|Decay Flesh Huntress
+  - first:
+      74: -8385552282828759147
+    second: Huntress Nodes|Decay Flesh Huntress.001
+  - first:
+      74: -2910411979600964906
+    second: Huntress Nodes|Decay Flesh Huntress.002
+  - first:
+      74: -8881239257054097279
+    second: Huntress Nodes|Decay Flesh Huntress.003
+  - first:
+      74: -726389661871253374
+    second: Huntress Nodes|Spell 1
+  - first:
+      74: 6198633574379465343
+    second: Huntress Nodes|Spell 1 Huntress
+  - first:
+      74: -3306233010328146525
+    second: Huntress Nodes|Spell 1 Huntress.001
+  - first:
+      74: 1074471915483395013
+    second: Huntress Nodes|Spell 1 Huntress.002
+  - first:
+      74: 2396070331847243755
+    second: Huntress Nodes|Spell 1 Huntress.003
+  - first:
+      74: 7433238758689109196
+    second: Huntress Nodes|Stand 1
+  - first:
+      74: 3100094374322081330
+    second: Huntress Nodes|Stand 1 Huntress
+  - first:
+      74: 6926214899753090578
+    second: Huntress Nodes|Stand 1 Huntress.001
+  - first:
+      74: 8218961538964479324
+    second: Huntress Nodes|Stand 1 Huntress.002
+  - first:
+      74: -2020760876019195319
+    second: Huntress Nodes|Stand 1 Huntress.003
+  - first:
+      74: 2661287843037967634
+    second: Huntress Nodes|Stand 2
+  - first:
+      74: -441524116830437431
+    second: Huntress Nodes|Stand 2 Huntress
+  - first:
+      74: -3394199389480342190
+    second: Huntress Nodes|Stand 2 Huntress.001
+  - first:
+      74: 5850492654711334367
+    second: Huntress Nodes|Stand 2 Huntress.002
+  - first:
+      74: -4095688198204828098
+    second: Huntress Nodes|Stand 2 Huntress.003
+  - first:
+      74: -7568337840373397198
+    second: Huntress Nodes|Walk 1
+  - first:
+      74: 8551747133547458536
+    second: Huntress Nodes|Walk 1 Huntress
+  - first:
+      74: -8213048190063018730
+    second: Huntress Nodes|Walk 1 Huntress.001
+  - first:
+      74: 3226861359203767699
+    second: Huntress Nodes|Walk 1 Huntress.002
+  - first:
+      74: 692602439218428023
+    second: Huntress Nodes|Walk 1 Huntress.003
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 6720303635017113406
+    second: Attack
+  - first:
+      74: -4630339522487117836
+    second: Die
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: 457796991906702257
+    second: Spawn
+  - first:
+      74: 7666019288946695810
+    second: Stun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.001
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.002
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.003
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.004
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.005
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReplaceableTextures_EnvironmentMap.006
+    second: {fileID: 2100000, guid: 93290241b9cf03a448b7d55fd96363d5, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Huntress Nodes|all sequences
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 3319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 74
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 101
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 58
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spawn
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 3020
+      lastFrame: 3050
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun
+      takeName: Huntress Nodes|all sequences
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

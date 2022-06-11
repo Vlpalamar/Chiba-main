@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 0146d22854aed1e4da13c1b2fd5ec054
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3987825344269942443
+    second: BanditRogue|#UNANIMATED BanditRogue
+  - first:
+      74: 2685981379757234732
+    second: BanditRogue|#UNANIMATED BanditRogue.001
+  - first:
+      74: -6697574239456392745
+    second: BanditRogue|#UNANIMATED BanditRogue.002
+  - first:
+      74: -1558549618334770489
+    second: BanditRogue|#UNANIMATED BanditRogue.003
+  - first:
+      74: 6190609600270804544
+    second: BanditRogue|Attack 1 BanditRogue
+  - first:
+      74: -7497730179838070965
+    second: BanditRogue|Attack 1 BanditRogue.001
+  - first:
+      74: -1761526664228580481
+    second: BanditRogue|Attack 1 BanditRogue.002
+  - first:
+      74: -1323544793630842399
+    second: BanditRogue|Attack 1 BanditRogue.003
+  - first:
+      74: 96858699140022541
+    second: BanditRogue|Attack 2 BanditRogue
+  - first:
+      74: -8264844772646651068
+    second: BanditRogue|Attack 2 BanditRogue.001
+  - first:
+      74: 4847858286740042479
+    second: BanditRogue|Attack 2 BanditRogue.002
+  - first:
+      74: 3272708688008007424
+    second: BanditRogue|Attack 2 BanditRogue.003
+  - first:
+      74: 4847190237470337571
+    second: BanditRogue|Attack Defend 1 BanditRogue
+  - first:
+      74: 5199996848119269346
+    second: BanditRogue|Attack Defend 1 BanditRogue.001
+  - first:
+      74: 306232612427040696
+    second: BanditRogue|Attack Defend 1 BanditRogue.002
+  - first:
+      74: 2340390149532401533
+    second: BanditRogue|Attack Defend 1 BanditRogue.003
+  - first:
+      74: 8841616802820201506
+    second: BanditRogue|Death 1 BanditRogue
+  - first:
+      74: 3956548515515804246
+    second: BanditRogue|Death 1 BanditRogue.001
+  - first:
+      74: 8763772944491258286
+    second: BanditRogue|Death 1 BanditRogue.002
+  - first:
+      74: 9057676596346434089
+    second: BanditRogue|Death 1 BanditRogue.003
+  - first:
+      74: 6738769220541904167
+    second: BanditRogue|Death Fire 1 BanditRogue
+  - first:
+      74: -1363019410709143917
+    second: BanditRogue|Death Fire 1 BanditRogue.001
+  - first:
+      74: 3291139579516984967
+    second: BanditRogue|Death Fire 1 BanditRogue.002
+  - first:
+      74: 36868568030354851
+    second: BanditRogue|Death Fire 1 BanditRogue.003
+  - first:
+      74: -2242786431181901040
+    second: BanditRogue|Decay Bone BanditRogue
+  - first:
+      74: -975978296254675738
+    second: BanditRogue|Decay Bone BanditRogue.001
+  - first:
+      74: -3740181499053295823
+    second: BanditRogue|Decay Bone BanditRogue.002
+  - first:
+      74: 5132387371156640431
+    second: BanditRogue|Decay Bone BanditRogue.003
+  - first:
+      74: -5645739992677134857
+    second: BanditRogue|Decay Flesh BanditRogue
+  - first:
+      74: -8824180118202112463
+    second: BanditRogue|Decay Flesh BanditRogue.001
+  - first:
+      74: 7910605025818980941
+    second: BanditRogue|Decay Flesh BanditRogue.002
+  - first:
+      74: -8173151028876480578
+    second: BanditRogue|Decay Flesh BanditRogue.003
+  - first:
+      74: -1175488274541859469
+    second: BanditRogue|Stand 1 BanditRogue
+  - first:
+      74: -5874781913724782866
+    second: BanditRogue|Stand 1 BanditRogue.001
+  - first:
+      74: 5587379498885385186
+    second: BanditRogue|Stand 1 BanditRogue.002
+  - first:
+      74: 3980817989108293336
+    second: BanditRogue|Stand 1 BanditRogue.003
+  - first:
+      74: -5175184785445426128
+    second: BanditRogue|Stand 2 BanditRogue
+  - first:
+      74: -7490447111130475333
+    second: BanditRogue|Stand 2 BanditRogue.001
+  - first:
+      74: -2647505034630278363
+    second: BanditRogue|Stand 2 BanditRogue.002
+  - first:
+      74: 8398628434978750409
+    second: BanditRogue|Stand 2 BanditRogue.003
+  - first:
+      74: 1536171290697761126
+    second: BanditRogue|Stand Defend 1 BanditRogue
+  - first:
+      74: -1715907598045202588
+    second: BanditRogue|Stand Defend 1 BanditRogue.001
+  - first:
+      74: 8902653041639441098
+    second: BanditRogue|Stand Defend 1 BanditRogue.002
+  - first:
+      74: 8306387177795906425
+    second: BanditRogue|Stand Defend 1 BanditRogue.003
+  - first:
+      74: 2078111174312589840
+    second: BanditRogue|Stand Hit 1 BanditRogue
+  - first:
+      74: -1008712029822431688
+    second: BanditRogue|Stand Hit 1 BanditRogue.001
+  - first:
+      74: -555399640616007992
+    second: BanditRogue|Stand Hit 1 BanditRogue.002
+  - first:
+      74: -1770679913526309870
+    second: BanditRogue|Stand Hit 1 BanditRogue.003
+  - first:
+      74: 1466367862834009677
+    second: BanditRogue|Stand Ready 1 BanditRogue
+  - first:
+      74: -858202959262409187
+    second: BanditRogue|Stand Ready 1 BanditRogue.001
+  - first:
+      74: -8162902670258215310
+    second: BanditRogue|Stand Ready 1 BanditRogue.002
+  - first:
+      74: 5880598879167758104
+    second: BanditRogue|Stand Ready 1 BanditRogue.003
+  - first:
+      74: 346919085895250308
+    second: BanditRogue|Stand Victory 1 BanditRogue
+  - first:
+      74: 4316491943141368540
+    second: BanditRogue|Stand Victory 1 BanditRogue.001
+  - first:
+      74: 7977162528676147043
+    second: BanditRogue|Stand Victory 1 BanditRogue.002
+  - first:
+      74: 143749604580658440
+    second: BanditRogue|Stand Victory 1 BanditRogue.003
+  - first:
+      74: -796597108622112337
+    second: BanditRogue|Walk 1 BanditRogue
+  - first:
+      74: -108642738286441100
+    second: BanditRogue|Walk 1 BanditRogue.001
+  - first:
+      74: -1463797566405829306
+    second: BanditRogue|Walk 1 BanditRogue.002
+  - first:
+      74: 74709741230650723
+    second: BanditRogue|Walk 1 BanditRogue.003
+  - first:
+      74: -1178703042764725556
+    second: BanditRogue|Walk Defend 1 BanditRogue
+  - first:
+      74: -4224494757128971339
+    second: BanditRogue|Walk Defend 1 BanditRogue.001
+  - first:
+      74: -5818583434051119322
+    second: BanditRogue|Walk Defend 1 BanditRogue.002
+  - first:
+      74: 7325188323959447953
+    second: BanditRogue|Walk Defend 1 BanditRogue.003
+  - first:
+      74: -5943365735862056339
+    second: BanditRogue.001|#UNANIMATED BanditRogue
+  - first:
+      74: -3074280882165491767
+    second: BanditRogue.001|#UNANIMATED BanditRogue.001
+  - first:
+      74: 5293377869774376366
+    second: BanditRogue.001|#UNANIMATED BanditRogue.002
+  - first:
+      74: 5591502998538109182
+    second: BanditRogue.001|#UNANIMATED BanditRogue.003
+  - first:
+      74: 5258020084432041265
+    second: BanditRogue.001|Attack 1 BanditRogue
+  - first:
+      74: -2458905482598229979
+    second: BanditRogue.001|Attack 1 BanditRogue.001
+  - first:
+      74: 7725186751618345461
+    second: BanditRogue.001|Attack 1 BanditRogue.002
+  - first:
+      74: -6767286532232898815
+    second: BanditRogue.001|Attack 1 BanditRogue.003
+  - first:
+      74: 3099948935295633853
+    second: BanditRogue.001|Attack 2 BanditRogue
+  - first:
+      74: 1571352600259218748
+    second: BanditRogue.001|Attack 2 BanditRogue.001
+  - first:
+      74: -6357697620919307535
+    second: BanditRogue.001|Attack 2 BanditRogue.002
+  - first:
+      74: -611437283302718453
+    second: BanditRogue.001|Attack 2 BanditRogue.003
+  - first:
+      74: 9132643560390708630
+    second: BanditRogue.001|Attack Defend 1 BanditRogue
+  - first:
+      74: 220173083497442649
+    second: BanditRogue.001|Attack Defend 1 BanditRogue.001
+  - first:
+      74: -7268078518276389138
+    second: BanditRogue.001|Attack Defend 1 BanditRogue.002
+  - first:
+      74: 5887222149414117513
+    second: BanditRogue.001|Attack Defend 1 BanditRogue.003
+  - first:
+      74: -4431525768948066435
+    second: BanditRogue.001|Death 1 BanditRogue
+  - first:
+      74: 7307768875831418379
+    second: BanditRogue.001|Death 1 BanditRogue.001
+  - first:
+      74: 5807535881756939111
+    second: BanditRogue.001|Death 1 BanditRogue.002
+  - first:
+      74: -2849505925226987500
+    second: BanditRogue.001|Death 1 BanditRogue.003
+  - first:
+      74: -3267120660015404564
+    second: BanditRogue.001|Death Fire 1 BanditRogue
+  - first:
+      74: -965989385543721031
+    second: BanditRogue.001|Death Fire 1 BanditRogue.001
+  - first:
+      74: 138052366604871953
+    second: BanditRogue.001|Death Fire 1 BanditRogue.002
+  - first:
+      74: 4727004019460822966
+    second: BanditRogue.001|Death Fire 1 BanditRogue.003
+  - first:
+      74: 248014198828684746
+    second: BanditRogue.001|Decay Bone BanditRogue
+  - first:
+      74: -4629517266340739863
+    second: BanditRogue.001|Decay Bone BanditRogue.001
+  - first:
+      74: 474217448477608669
+    second: BanditRogue.001|Decay Bone BanditRogue.002
+  - first:
+      74: 8600798858210719042
+    second: BanditRogue.001|Decay Bone BanditRogue.003
+  - first:
+      74: -889270471176286507
+    second: BanditRogue.001|Decay Flesh BanditRogue
+  - first:
+      74: 3652167419676355372
+    second: BanditRogue.001|Decay Flesh BanditRogue.001
+  - first:
+      74: 6411238687225130630
+    second: BanditRogue.001|Decay Flesh BanditRogue.002
+  - first:
+      74: 3283042393287775803
+    second: BanditRogue.001|Decay Flesh BanditRogue.003
+  - first:
+      74: -3950907727760724969
+    second: BanditRogue.001|Stand 1 BanditRogue
+  - first:
+      74: 6388730168795987821
+    second: BanditRogue.001|Stand 1 BanditRogue.001
+  - first:
+      74: 2325892735049182288
+    second: BanditRogue.001|Stand 1 BanditRogue.002
+  - first:
+      74: -6474105283434585099
+    second: BanditRogue.001|Stand 1 BanditRogue.003
+  - first:
+      74: 3435212224887840674
+    second: BanditRogue.001|Stand 2 BanditRogue
+  - first:
+      74: -1033756966115018139
+    second: BanditRogue.001|Stand 2 BanditRogue.001
+  - first:
+      74: -8492891635994858341
+    second: BanditRogue.001|Stand 2 BanditRogue.002
+  - first:
+      74: 6545496656212272381
+    second: BanditRogue.001|Stand 2 BanditRogue.003
+  - first:
+      74: 4736380204579666262
+    second: BanditRogue.001|Stand Defend 1 BanditRogue
+  - first:
+      74: -4798409706699166165
+    second: BanditRogue.001|Stand Defend 1 BanditRogue.001
+  - first:
+      74: 4578592252465587000
+    second: BanditRogue.001|Stand Defend 1 BanditRogue.002
+  - first:
+      74: -7590475399351758246
+    second: BanditRogue.001|Stand Defend 1 BanditRogue.003
+  - first:
+      74: 8508762099220300358
+    second: BanditRogue.001|Stand Hit 1 BanditRogue
+  - first:
+      74: 6829020139300666705
+    second: BanditRogue.001|Stand Hit 1 BanditRogue.001
+  - first:
+      74: -5415318528693984006
+    second: BanditRogue.001|Stand Hit 1 BanditRogue.002
+  - first:
+      74: -3452956548328222127
+    second: BanditRogue.001|Stand Hit 1 BanditRogue.003
+  - first:
+      74: -2381861516161292198
+    second: BanditRogue.001|Stand Ready 1 BanditRogue
+  - first:
+      74: 7606361015641458956
+    second: BanditRogue.001|Stand Ready 1 BanditRogue.001
+  - first:
+      74: -6361288457009070436
+    second: BanditRogue.001|Stand Ready 1 BanditRogue.002
+  - first:
+      74: 5118835035781686577
+    second: BanditRogue.001|Stand Ready 1 BanditRogue.003
+  - first:
+      74: -5389346604458385632
+    second: BanditRogue.001|Stand Victory 1 BanditRogue
+  - first:
+      74: -3640481522803695733
+    second: BanditRogue.001|Stand Victory 1 BanditRogue.001
+  - first:
+      74: -2133359102800115307
+    second: BanditRogue.001|Stand Victory 1 BanditRogue.002
+  - first:
+      74: 9115120810513277518
+    second: BanditRogue.001|Stand Victory 1 BanditRogue.003
+  - first:
+      74: -1514620312128020746
+    second: BanditRogue.001|Walk 1 BanditRogue
+  - first:
+      74: -1889019691303995170
+    second: BanditRogue.001|Walk 1 BanditRogue.001
+  - first:
+      74: -5491885465023069898
+    second: BanditRogue.001|Walk 1 BanditRogue.002
+  - first:
+      74: 5423877806778909719
+    second: BanditRogue.001|Walk 1 BanditRogue.003
+  - first:
+      74: 5108333905750096634
+    second: BanditRogue.001|Walk Defend 1 BanditRogue
+  - first:
+      74: -1763729773252421779
+    second: BanditRogue.001|Walk Defend 1 BanditRogue.001
+  - first:
+      74: -6640130215328560604
+    second: BanditRogue.001|Walk Defend 1 BanditRogue.002
+  - first:
+      74: 5421811101842722424
+    second: BanditRogue.001|Walk Defend 1 BanditRogue.003
+  - first:
+      74: 4710510334190489434
+    second: BanditRogue.002|#UNANIMATED BanditRogue
+  - first:
+      74: -4350325468817468639
+    second: BanditRogue.002|#UNANIMATED BanditRogue.001
+  - first:
+      74: 1471823614120744645
+    second: BanditRogue.002|#UNANIMATED BanditRogue.002
+  - first:
+      74: 229618506928418478
+    second: BanditRogue.002|#UNANIMATED BanditRogue.003
+  - first:
+      74: 8368281841252494114
+    second: BanditRogue.002|Attack 1 BanditRogue
+  - first:
+      74: 5365531933214421976
+    second: BanditRogue.002|Attack 1 BanditRogue.001
+  - first:
+      74: 6834287495412845591
+    second: BanditRogue.002|Attack 1 BanditRogue.002
+  - first:
+      74: -3492903646669152405
+    second: BanditRogue.002|Attack 1 BanditRogue.003
+  - first:
+      74: -4054799750934968620
+    second: BanditRogue.002|Attack 2 BanditRogue
+  - first:
+      74: 5716670347519404972
+    second: BanditRogue.002|Attack 2 BanditRogue.001
+  - first:
+      74: -2367705716952745930
+    second: BanditRogue.002|Attack 2 BanditRogue.002
+  - first:
+      74: 5564883868948677097
+    second: BanditRogue.002|Attack 2 BanditRogue.003
+  - first:
+      74: 5934017345842276326
+    second: BanditRogue.002|Attack Defend 1 BanditRogue
+  - first:
+      74: 8683675340231931272
+    second: BanditRogue.002|Attack Defend 1 BanditRogue.001
+  - first:
+      74: -3753163789860045234
+    second: BanditRogue.002|Attack Defend 1 BanditRogue.002
+  - first:
+      74: -6074363080808958967
+    second: BanditRogue.002|Attack Defend 1 BanditRogue.003
+  - first:
+      74: -3009320681294256752
+    second: BanditRogue.002|Death 1 BanditRogue
+  - first:
+      74: 5993963157697750539
+    second: BanditRogue.002|Death 1 BanditRogue.001
+  - first:
+      74: -6228509209237793589
+    second: BanditRogue.002|Death 1 BanditRogue.002
+  - first:
+      74: -5205619418135747810
+    second: BanditRogue.002|Death 1 BanditRogue.003
+  - first:
+      74: -5199217112720177121
+    second: BanditRogue.002|Death Fire 1 BanditRogue
+  - first:
+      74: -482558450035703119
+    second: BanditRogue.002|Death Fire 1 BanditRogue.001
+  - first:
+      74: 989319371702376634
+    second: BanditRogue.002|Death Fire 1 BanditRogue.002
+  - first:
+      74: 601421362574042894
+    second: BanditRogue.002|Death Fire 1 BanditRogue.003
+  - first:
+      74: 5556652967911669648
+    second: BanditRogue.002|Decay Bone BanditRogue
+  - first:
+      74: 2599855297192301631
+    second: BanditRogue.002|Decay Bone BanditRogue.001
+  - first:
+      74: -6031917727905864071
+    second: BanditRogue.002|Decay Bone BanditRogue.002
+  - first:
+      74: 9167915697348649879
+    second: BanditRogue.002|Decay Bone BanditRogue.003
+  - first:
+      74: -8421804401119252991
+    second: BanditRogue.002|Decay Flesh BanditRogue
+  - first:
+      74: -2716646879821326453
+    second: BanditRogue.002|Decay Flesh BanditRogue.001
+  - first:
+      74: 1318096970614325851
+    second: BanditRogue.002|Decay Flesh BanditRogue.002
+  - first:
+      74: -4526782353765305638
+    second: BanditRogue.002|Decay Flesh BanditRogue.003
+  - first:
+      74: 5146832255923661038
+    second: BanditRogue.002|Stand 1 BanditRogue
+  - first:
+      74: 7340419941283443052
+    second: BanditRogue.002|Stand 1 BanditRogue.001
+  - first:
+      74: 4949749419250950321
+    second: BanditRogue.002|Stand 1 BanditRogue.002
+  - first:
+      74: -3077455172874150536
+    second: BanditRogue.002|Stand 1 BanditRogue.003
+  - first:
+      74: 3085564431579627863
+    second: BanditRogue.002|Stand 2 BanditRogue
+  - first:
+      74: 1288491978882006263
+    second: BanditRogue.002|Stand 2 BanditRogue.001
+  - first:
+      74: -3017717768543020145
+    second: BanditRogue.002|Stand 2 BanditRogue.002
+  - first:
+      74: -4689194477010583147
+    second: BanditRogue.002|Stand 2 BanditRogue.003
+  - first:
+      74: 4417244097850157717
+    second: BanditRogue.002|Stand Defend 1 BanditRogue
+  - first:
+      74: -6237575556246576243
+    second: BanditRogue.002|Stand Defend 1 BanditRogue.001
+  - first:
+      74: 4176291875988252621
+    second: BanditRogue.002|Stand Defend 1 BanditRogue.002
+  - first:
+      74: 2320233260998486727
+    second: BanditRogue.002|Stand Defend 1 BanditRogue.003
+  - first:
+      74: 8727997044206841386
+    second: BanditRogue.002|Stand Hit 1 BanditRogue
+  - first:
+      74: 7724022283545437229
+    second: BanditRogue.002|Stand Hit 1 BanditRogue.001
+  - first:
+      74: -4158489886712153296
+    second: BanditRogue.002|Stand Hit 1 BanditRogue.002
+  - first:
+      74: -6077593278046789378
+    second: BanditRogue.002|Stand Hit 1 BanditRogue.003
+  - first:
+      74: -4932954096031695112
+    second: BanditRogue.002|Stand Ready 1 BanditRogue
+  - first:
+      74: 7694704993898482725
+    second: BanditRogue.002|Stand Ready 1 BanditRogue.001
+  - first:
+      74: 7817311086072032539
+    second: BanditRogue.002|Stand Ready 1 BanditRogue.002
+  - first:
+      74: 7432260411975768899
+    second: BanditRogue.002|Stand Ready 1 BanditRogue.003
+  - first:
+      74: -6368702846707054527
+    second: BanditRogue.002|Stand Victory 1 BanditRogue
+  - first:
+      74: 5488235882795290317
+    second: BanditRogue.002|Stand Victory 1 BanditRogue.001
+  - first:
+      74: 7734863533889752826
+    second: BanditRogue.002|Stand Victory 1 BanditRogue.002
+  - first:
+      74: 5171844575187779360
+    second: BanditRogue.002|Stand Victory 1 BanditRogue.003
+  - first:
+      74: -6404829093048099564
+    second: BanditRogue.002|Walk 1 BanditRogue
+  - first:
+      74: -5439529617020765191
+    second: BanditRogue.002|Walk 1 BanditRogue.001
+  - first:
+      74: -8693774879574890860
+    second: BanditRogue.002|Walk 1 BanditRogue.002
+  - first:
+      74: 1454319524369179473
+    second: BanditRogue.002|Walk 1 BanditRogue.003
+  - first:
+      74: 7301530661935613727
+    second: BanditRogue.002|Walk Defend 1 BanditRogue
+  - first:
+      74: 2471094508375187715
+    second: BanditRogue.002|Walk Defend 1 BanditRogue.001
+  - first:
+      74: 6107737572544176821
+    second: BanditRogue.002|Walk Defend 1 BanditRogue.002
+  - first:
+      74: -899235472033986321
+    second: BanditRogue.002|Walk Defend 1 BanditRogue.003
+  - first:
+      74: -6344669213619974211
+    second: BanditRogue.003|#UNANIMATED BanditRogue
+  - first:
+      74: -3663279776469984088
+    second: BanditRogue.003|#UNANIMATED BanditRogue.001
+  - first:
+      74: -8629087265411563388
+    second: BanditRogue.003|#UNANIMATED BanditRogue.002
+  - first:
+      74: -8719620273284189971
+    second: BanditRogue.003|#UNANIMATED BanditRogue.003
+  - first:
+      74: 1526697967467754564
+    second: BanditRogue.003|Attack 1 BanditRogue
+  - first:
+      74: 3013236594928707252
+    second: BanditRogue.003|Attack 1 BanditRogue.001
+  - first:
+      74: -6192966335841158728
+    second: BanditRogue.003|Attack 1 BanditRogue.002
+  - first:
+      74: -2280024462941244842
+    second: BanditRogue.003|Attack 1 BanditRogue.003
+  - first:
+      74: -2070405035572721981
+    second: BanditRogue.003|Attack 2 BanditRogue
+  - first:
+      74: -3231133486371099275
+    second: BanditRogue.003|Attack 2 BanditRogue.001
+  - first:
+      74: 6952329718932129789
+    second: BanditRogue.003|Attack 2 BanditRogue.002
+  - first:
+      74: -6353663852960440552
+    second: BanditRogue.003|Attack 2 BanditRogue.003
+  - first:
+      74: 2388981327421051047
+    second: BanditRogue.003|Attack Defend 1 BanditRogue
+  - first:
+      74: -810960532267167487
+    second: BanditRogue.003|Attack Defend 1 BanditRogue.001
+  - first:
+      74: -510092505412126324
+    second: BanditRogue.003|Attack Defend 1 BanditRogue.002
+  - first:
+      74: -4575184197512145864
+    second: BanditRogue.003|Attack Defend 1 BanditRogue.003
+  - first:
+      74: 5215206971203345023
+    second: BanditRogue.003|Death 1 BanditRogue
+  - first:
+      74: -8377565257989638084
+    second: BanditRogue.003|Death 1 BanditRogue.001
+  - first:
+      74: -6820605533836417221
+    second: BanditRogue.003|Death 1 BanditRogue.002
+  - first:
+      74: -7274011115960148780
+    second: BanditRogue.003|Death 1 BanditRogue.003
+  - first:
+      74: 6970683648727727435
+    second: BanditRogue.003|Death Fire 1 BanditRogue
+  - first:
+      74: -7629108962189704400
+    second: BanditRogue.003|Death Fire 1 BanditRogue.001
+  - first:
+      74: -6418652375613305286
+    second: BanditRogue.003|Death Fire 1 BanditRogue.002
+  - first:
+      74: 7979842748904353171
+    second: BanditRogue.003|Death Fire 1 BanditRogue.003
+  - first:
+      74: -1053032471438797828
+    second: BanditRogue.003|Decay Bone BanditRogue
+  - first:
+      74: 2362584857541571052
+    second: BanditRogue.003|Decay Bone BanditRogue.001
+  - first:
+      74: -139027027292627678
+    second: BanditRogue.003|Decay Bone BanditRogue.002
+  - first:
+      74: -2486350390976625931
+    second: BanditRogue.003|Decay Bone BanditRogue.003
+  - first:
+      74: -2240387158005293217
+    second: BanditRogue.003|Decay Flesh BanditRogue
+  - first:
+      74: -4185256637125514785
+    second: BanditRogue.003|Decay Flesh BanditRogue.001
+  - first:
+      74: -4422814393563969784
+    second: BanditRogue.003|Decay Flesh BanditRogue.002
+  - first:
+      74: -5281599702394199628
+    second: BanditRogue.003|Decay Flesh BanditRogue.003
+  - first:
+      74: 52528212024493670
+    second: BanditRogue.003|Stand 1 BanditRogue
+  - first:
+      74: -1069715897179368548
+    second: BanditRogue.003|Stand 1 BanditRogue.001
+  - first:
+      74: 4554496745988880603
+    second: BanditRogue.003|Stand 1 BanditRogue.002
+  - first:
+      74: -98181622586987837
+    second: BanditRogue.003|Stand 1 BanditRogue.003
+  - first:
+      74: -840319970671124262
+    second: BanditRogue.003|Stand 2 BanditRogue
+  - first:
+      74: 3672109998098715896
+    second: BanditRogue.003|Stand 2 BanditRogue.001
+  - first:
+      74: 3698732923822966261
+    second: BanditRogue.003|Stand 2 BanditRogue.002
+  - first:
+      74: 5532050268891962881
+    second: BanditRogue.003|Stand 2 BanditRogue.003
+  - first:
+      74: 4934821277458240693
+    second: BanditRogue.003|Stand Defend 1 BanditRogue
+  - first:
+      74: 8731514408902219228
+    second: BanditRogue.003|Stand Defend 1 BanditRogue.001
+  - first:
+      74: -3466181692251633505
+    second: BanditRogue.003|Stand Defend 1 BanditRogue.002
+  - first:
+      74: -1945973791456620722
+    second: BanditRogue.003|Stand Defend 1 BanditRogue.003
+  - first:
+      74: 46055790877373022
+    second: BanditRogue.003|Stand Hit 1 BanditRogue
+  - first:
+      74: 8649530525290740425
+    second: BanditRogue.003|Stand Hit 1 BanditRogue.001
+  - first:
+      74: -3515099634145914513
+    second: BanditRogue.003|Stand Hit 1 BanditRogue.002
+  - first:
+      74: 598408135353779734
+    second: BanditRogue.003|Stand Hit 1 BanditRogue.003
+  - first:
+      74: -2573894915504090886
+    second: BanditRogue.003|Stand Ready 1 BanditRogue
+  - first:
+      74: 7335243299089280805
+    second: BanditRogue.003|Stand Ready 1 BanditRogue.001
+  - first:
+      74: -8945530929890582051
+    second: BanditRogue.003|Stand Ready 1 BanditRogue.002
+  - first:
+      74: 1420188245100034818
+    second: BanditRogue.003|Stand Ready 1 BanditRogue.003
+  - first:
+      74: -5130454725785169672
+    second: BanditRogue.003|Stand Victory 1 BanditRogue
+  - first:
+      74: 6787523176848300238
+    second: BanditRogue.003|Stand Victory 1 BanditRogue.001
+  - first:
+      74: -4503222518830452491
+    second: BanditRogue.003|Stand Victory 1 BanditRogue.002
+  - first:
+      74: 3426091532735967520
+    second: BanditRogue.003|Stand Victory 1 BanditRogue.003
+  - first:
+      74: -8223629293775091143
+    second: BanditRogue.003|Walk 1 BanditRogue
+  - first:
+      74: -4077384331129194901
+    second: BanditRogue.003|Walk 1 BanditRogue.001
+  - first:
+      74: 8766923866489376540
+    second: BanditRogue.003|Walk 1 BanditRogue.002
+  - first:
+      74: 6118680282956685075
+    second: BanditRogue.003|Walk 1 BanditRogue.003
+  - first:
+      74: -2326983798670616719
+    second: BanditRogue.003|Walk Defend 1 BanditRogue
+  - first:
+      74: -3613757763403957533
+    second: BanditRogue.003|Walk Defend 1 BanditRogue.001
+  - first:
+      74: 5338209830035284019
+    second: BanditRogue.003|Walk Defend 1 BanditRogue.002
+  - first:
+      74: 923843320836400983
+    second: BanditRogue.003|Walk Defend 1 BanditRogue.003
+  - first:
+      74: -3355553475261933633
+    second: BanditRogue Nodes|#UNANIMATED
+  - first:
+      74: -7556833380754585700
+    second: BanditRogue Nodes|#UNANIMATED BanditRogue
+  - first:
+      74: -2585391433063387152
+    second: BanditRogue Nodes|#UNANIMATED BanditRogue.001
+  - first:
+      74: 2215658638207365665
+    second: BanditRogue Nodes|#UNANIMATED BanditRogue.002
+  - first:
+      74: 8576337786041289515
+    second: BanditRogue Nodes|#UNANIMATED BanditRogue.003
+  - first:
+      74: -5403388253255249182
+    second: BanditRogue Nodes|all sequences
+  - first:
+      74: -8056793408699059279
+    second: BanditRogue Nodes|Attack 1
+  - first:
+      74: -7100573662957699478
+    second: BanditRogue Nodes|Attack 1 BanditRogue
+  - first:
+      74: 1465825552702577416
+    second: BanditRogue Nodes|Attack 1 BanditRogue.001
+  - first:
+      74: -4252437504391211102
+    second: BanditRogue Nodes|Attack 1 BanditRogue.002
+  - first:
+      74: -7397948440613199173
+    second: BanditRogue Nodes|Attack 1 BanditRogue.003
+  - first:
+      74: 1743196362894495838
+    second: BanditRogue Nodes|Attack 2
+  - first:
+      74: -8244759241739165006
+    second: BanditRogue Nodes|Attack 2 BanditRogue
+  - first:
+      74: 8127302295049198590
+    second: BanditRogue Nodes|Attack 2 BanditRogue.001
+  - first:
+      74: 2072333765746780880
+    second: BanditRogue Nodes|Attack 2 BanditRogue.002
+  - first:
+      74: -6343743442449162
+    second: BanditRogue Nodes|Attack 2 BanditRogue.003
+  - first:
+      74: 6935668121880339429
+    second: BanditRogue Nodes|Attack Defend 1
+  - first:
+      74: -7294781684299143203
+    second: BanditRogue Nodes|Attack Defend 1 BanditRogue
+  - first:
+      74: 8567883453362659347
+    second: BanditRogue Nodes|Attack Defend 1 BanditRogue.001
+  - first:
+      74: 8310070947193674445
+    second: BanditRogue Nodes|Attack Defend 1 BanditRogue.002
+  - first:
+      74: 5817235180049530321
+    second: BanditRogue Nodes|Attack Defend 1 BanditRogue.003
+  - first:
+      74: 4520402102838124919
+    second: BanditRogue Nodes|Death 1
+  - first:
+      74: -2742014243784827314
+    second: BanditRogue Nodes|Death 1 BanditRogue
+  - first:
+      74: 1262972639963148705
+    second: BanditRogue Nodes|Death 1 BanditRogue.001
+  - first:
+      74: -6163638207255806752
+    second: BanditRogue Nodes|Death 1 BanditRogue.002
+  - first:
+      74: 4734848169472164087
+    second: BanditRogue Nodes|Death 1 BanditRogue.003
+  - first:
+      74: -6851499653664838292
+    second: BanditRogue Nodes|Death Fire 1
+  - first:
+      74: -1177652241648770334
+    second: BanditRogue Nodes|Death Fire 1 BanditRogue
+  - first:
+      74: -6164416756102365832
+    second: BanditRogue Nodes|Death Fire 1 BanditRogue.001
+  - first:
+      74: 2966010904894886257
+    second: BanditRogue Nodes|Death Fire 1 BanditRogue.002
+  - first:
+      74: 5995954400034563494
+    second: BanditRogue Nodes|Death Fire 1 BanditRogue.003
+  - first:
+      74: -5859689287916116542
+    second: BanditRogue Nodes|Decay Bone
+  - first:
+      74: -2826080152706309796
+    second: BanditRogue Nodes|Decay Bone BanditRogue
+  - first:
+      74: 1092841453180160497
+    second: BanditRogue Nodes|Decay Bone BanditRogue.001
+  - first:
+      74: -6269908818743708152
+    second: BanditRogue Nodes|Decay Bone BanditRogue.002
+  - first:
+      74: 1291750348004910260
+    second: BanditRogue Nodes|Decay Bone BanditRogue.003
+  - first:
+      74: 3703565249887131714
+    second: BanditRogue Nodes|Decay Flesh
+  - first:
+      74: -2351215478565556851
+    second: BanditRogue Nodes|Decay Flesh BanditRogue
+  - first:
+      74: 7622624413466546632
+    second: BanditRogue Nodes|Decay Flesh BanditRogue.001
+  - first:
+      74: -6953259793571376573
+    second: BanditRogue Nodes|Decay Flesh BanditRogue.002
+  - first:
+      74: 6105497869245716098
+    second: BanditRogue Nodes|Decay Flesh BanditRogue.003
+  - first:
+      74: -102013748149467699
+    second: BanditRogue Nodes|Stand 1
+  - first:
+      74: 4434537544502826351
+    second: BanditRogue Nodes|Stand 1 BanditRogue
+  - first:
+      74: -3492471416612810828
+    second: BanditRogue Nodes|Stand 1 BanditRogue.001
+  - first:
+      74: -74528136146189065
+    second: BanditRogue Nodes|Stand 1 BanditRogue.002
+  - first:
+      74: -6990091739826523625
+    second: BanditRogue Nodes|Stand 1 BanditRogue.003
+  - first:
+      74: -8682713998148136043
+    second: BanditRogue Nodes|Stand 2
+  - first:
+      74: 8063770275479986080
+    second: BanditRogue Nodes|Stand 2 BanditRogue
+  - first:
+      74: 6784146497924276465
+    second: BanditRogue Nodes|Stand 2 BanditRogue.001
+  - first:
+      74: -5621981780114491144
+    second: BanditRogue Nodes|Stand 2 BanditRogue.002
+  - first:
+      74: 257900366031560175
+    second: BanditRogue Nodes|Stand 2 BanditRogue.003
+  - first:
+      74: 7438712563854469721
+    second: BanditRogue Nodes|Stand Defend 1
+  - first:
+      74: -6593085599998981715
+    second: BanditRogue Nodes|Stand Defend 1 BanditRogue
+  - first:
+      74: 7957254062082506223
+    second: BanditRogue Nodes|Stand Defend 1 BanditRogue.001
+  - first:
+      74: -6251993728016124861
+    second: BanditRogue Nodes|Stand Defend 1 BanditRogue.002
+  - first:
+      74: 281133053447525162
+    second: BanditRogue Nodes|Stand Defend 1 BanditRogue.003
+  - first:
+      74: -1883441022564153774
+    second: BanditRogue Nodes|Stand Hit 1
+  - first:
+      74: -5344247693062508137
+    second: BanditRogue Nodes|Stand Hit 1 BanditRogue
+  - first:
+      74: 5220779474596173933
+    second: BanditRogue Nodes|Stand Hit 1 BanditRogue.001
+  - first:
+      74: 7470081500075313234
+    second: BanditRogue Nodes|Stand Hit 1 BanditRogue.002
+  - first:
+      74: -4328403598482624870
+    second: BanditRogue Nodes|Stand Hit 1 BanditRogue.003
+  - first:
+      74: -3988361974512281389
+    second: BanditRogue Nodes|Stand Ready 1
+  - first:
+      74: 4171322936269884735
+    second: BanditRogue Nodes|Stand Ready 1 BanditRogue
+  - first:
+      74: 3327418349708225517
+    second: BanditRogue Nodes|Stand Ready 1 BanditRogue.001
+  - first:
+      74: 772018796756680857
+    second: BanditRogue Nodes|Stand Ready 1 BanditRogue.002
+  - first:
+      74: -3720087133173686266
+    second: BanditRogue Nodes|Stand Ready 1 BanditRogue.003
+  - first:
+      74: -4695940951054232417
+    second: BanditRogue Nodes|Stand Victory 1
+  - first:
+      74: -4218768430010471645
+    second: BanditRogue Nodes|Stand Victory 1 BanditRogue
+  - first:
+      74: -7022329471918306810
+    second: BanditRogue Nodes|Stand Victory 1 BanditRogue.001
+  - first:
+      74: 8886241102592730669
+    second: BanditRogue Nodes|Stand Victory 1 BanditRogue.002
+  - first:
+      74: -5595353617943898890
+    second: BanditRogue Nodes|Stand Victory 1 BanditRogue.003
+  - first:
+      74: -4250478790554735739
+    second: BanditRogue Nodes|Walk 1
+  - first:
+      74: -4952448420435500520
+    second: BanditRogue Nodes|Walk 1 BanditRogue
+  - first:
+      74: 3252451793580285772
+    second: BanditRogue Nodes|Walk 1 BanditRogue.001
+  - first:
+      74: -6370357496341799397
+    second: BanditRogue Nodes|Walk 1 BanditRogue.002
+  - first:
+      74: -249565730286159933
+    second: BanditRogue Nodes|Walk 1 BanditRogue.003
+  - first:
+      74: 7483697711150931831
+    second: BanditRogue Nodes|Walk Defend 1
+  - first:
+      74: 1753335752204637549
+    second: BanditRogue Nodes|Walk Defend 1 BanditRogue
+  - first:
+      74: 2084781343726898190
+    second: BanditRogue Nodes|Walk Defend 1 BanditRogue.001
+  - first:
+      74: -3655116012994255223
+    second: BanditRogue Nodes|Walk Defend 1 BanditRogue.002
+  - first:
+      74: 2210767894967043833
+    second: BanditRogue Nodes|Walk Defend 1 BanditRogue.003
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
